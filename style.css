@@ -2,5 +2,8 @@
   background:#CCCCCC
 } 
 p {
-      "text-aling:center"
+      text-aling:center;
     }
+em strong {
+color:red;
+}
