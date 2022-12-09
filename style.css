@@ -7,6 +7,7 @@
 }
 . principal {
 background:#CCCCCC
+ pading:30px;
 }
 h1{
 text-aling:center
@@ -26,7 +27,17 @@ color:red;
    }
 . Benefícios {
 background:FFFFFF;
+ pading:20px;
 }
 h2{
+ ul {
+ display:inline-block;
+ vertical-align:top;
+ widty:20%;
+ margin-right:15%;
+ }
 text-align:center;
 }
+.imagembenefícios {
+width: 50%;
+} 
