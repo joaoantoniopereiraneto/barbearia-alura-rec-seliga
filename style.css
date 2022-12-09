@@ -8,6 +8,9 @@
 . principal {
 background:#CCCCCC
  pading:30px;
+ .titulo-principal{
+  pading-left:20px;
+ }
 }
 .titulo centralizado{
 text-aling:center
