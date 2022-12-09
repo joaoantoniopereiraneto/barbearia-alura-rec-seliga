@@ -9,7 +9,7 @@
 background:#CCCCCC
  pading:30px;
 }
-h1{
+.titulo centralizado{
 text-aling:center
 }
 p {
@@ -29,8 +29,8 @@ color:red;
 background:FFFFFF;
  pading:20px;
 }
-h2{
- ul {
+
+
  display:inline-block;
  vertical-align:top;
  widty:20%;
