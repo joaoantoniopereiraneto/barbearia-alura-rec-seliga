@@ -3,10 +3,10 @@
 }
 
 #banner {
-https://images.app.goo.gl/rag47SuGybC3MK4X8
+ Width 100%
 }
 . principal {
-background:#CCCCCC
+background:#CCCCCC;
  pading:30px;
  .titulo-principal{
   pading-left:20px;
@@ -29,7 +29,7 @@ color:red;
  font-style: italic
    }
 . Benefícios {
-background:FFFFFF;
+background:#FFFFFF;
  pading:20px;
 }
 
